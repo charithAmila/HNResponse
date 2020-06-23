@@ -8,4 +8,4 @@
 
 [Click here](https://raw.githubusercontent.com/charithAmila/HNResponse/master/first-step.json)
 
-... This two responses should come from rest end point
+Need rest end point for above data.
