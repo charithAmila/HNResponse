@@ -1,0 +1,48 @@
+[
+  {
+    "_id": 0.24552296245167882,
+    "user": { "_id": "pYVpsjBcMzaeK5IDnRVD0helWEW2", "name": "authUserName" },
+    "quickReplies": {
+      "type": "radio",
+      "values": [
+        {
+          "title": "Upload prescription",
+          "value": {
+            "option": "Upload prescription",
+            "action": "UPLOAD_PRESCRIPTION"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "createdAt": "2020-06-23T17:00:07.584Z",
+    "text": "To get started can you upload your prescription",
+    "_id": 0.5131011124958553,
+    "user": {
+      "name": "Dineshi",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/chatapp-54d51.appspot.com/o/Ellipse.png?alt=media&token=ec56d099-0f9c-428d-b6be-5062c3657732",
+      "_id": 2
+    }
+  },
+  {
+    "createdAt": "2020-06-23T17:00:07.584Z",
+    "text": "My name is Dineshi",
+    "_id": 0.7780986876826765,
+    "user": {
+      "name": "Dineshi",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/chatapp-54d51.appspot.com/o/Ellipse.png?alt=media&token=ec56d099-0f9c-428d-b6be-5062c3657732",
+      "_id": 2
+    }
+  },
+  {
+    "createdAt": "2020-06-23T17:00:07.584Z",
+    "text": "Hi Chaith",
+    "_id": 0.36208077062863353,
+    "user": {
+      "name": "Dineshi",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/chatapp-54d51.appspot.com/o/Ellipse.png?alt=media&token=ec56d099-0f9c-428d-b6be-5062c3657732",
+      "_id": 2
+    }
+  }
+]
